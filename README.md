@@ -1,9 +1,6 @@
 # 💫 About Me:
 My name is Felipe and I'm 24<br>starting now my journey, looking for my first opportunity in the field.<br><br>Completely in love with CyberSecurity! ❤️
 
-
-## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imaidenx)
-
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
