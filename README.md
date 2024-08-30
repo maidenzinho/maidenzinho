@@ -13,6 +13,7 @@ My name is Felipe and I'm 24<br>starting now my journey, looking for my first op
 </div>
 <br> 
 </br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false)<br/>
