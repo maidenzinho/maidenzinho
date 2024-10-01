@@ -7,9 +7,8 @@ My name is Felipe and I'm 24<br>starting now my journey, looking for my first op
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rust" height="30" width="40" src="https://www.svgrepo.com/show/473774/rust.svg">
+  <img align="center" alt="Rust" height="30" width="40" src="https://www.svgrepo.com/show/374056/rust.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Assembly" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Assembly_language_logo.svg">
 </div>
 <br> 
 </br>
