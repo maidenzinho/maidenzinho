@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-My name is Felipe and I'm 24<br>starting now my journey, looking for my first opportunity in the field.<br><br>Completely in love with CyberSecurity! ❤️
+Sou Felipe e tenho 24 anos<br>Iniciando minha jornada,<br><br>📚Cursando Bacharelado em Cibersegurança na PUCPR
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
