@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Sou Felipe e tenho 24 anos<br>Iniciando minha jornada,<br><br>📚Cursando Bacharelado em Cibersegurança na PUCPR
+Sou Felipe e tenho 24 anos<br>Iniciando minha jornada<br><br>📚Cursando Bacharelado em Cibersegurança na PUCPR
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
