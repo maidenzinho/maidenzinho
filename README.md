@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://www.svgrepo.com/show/415194/files-hack-secret.svg" align="center" style="width: 10%" />
+</div>
+
 # 💫 About Me:
 My name is Felipe and I'm 24<br>starting now my journey, looking for my first opportunity in the field.<br><br>Completely in love with CyberSecurity! ❤️
 
