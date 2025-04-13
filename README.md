@@ -28,6 +28,8 @@ Sou Felipe e tenho 25 anos<br>Iniciando minha jornada<br><br>📚Cursando Bachar
 ## ✅ Cursos e Certificados!
 |Cursos | Certificados |
 |-------|--------------|
+|Red Hat System Administration I 9.3| [Certificado](mailto:imaidenxx@proton.me)|
+|Red Hat System Administration II 9.0| [Certificado](mailto:imaidenxx@proton.me)|
 Loading...
 
 # 📊 GitHub Stats:
