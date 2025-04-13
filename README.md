@@ -8,6 +8,11 @@
 # 💫 Sobre:
 Sou Felipe e tenho 24 anos<br>Iniciando minha jornada<br><br>📚Cursando Bacharelado em Cibersegurança na PUCPR
 
+## 📱 Conecte-se Comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-fernandes-bortolino-3953041a6)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:imaidenxx@proton.me)
+
 # 💻 Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
