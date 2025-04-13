@@ -20,6 +20,11 @@ Sou Felipe e tenho 24 anos<br>Iniciando minha jornada<br><br>📚Cursando Bachar
 <br> 
 </br>
 
+## ✅ Cursos e Certificados!
+|Cursos | Certificados |
+|-------|--------------|
+Loading...
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false)<br/>
