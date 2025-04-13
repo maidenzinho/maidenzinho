@@ -1,17 +1,17 @@
 <div align="center">
 <img src="https://www.svgrepo.com/show/415194/files-hack-secret.svg" align="center" style="width: 10%" />
-</div>
+</div><br>
 
 ![Gif de introdução](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 # 💫 Sobre:
-Sou Felipe e tenho 24 anos<br>Iniciando minha jornada<br><br>📚Cursando Bacharelado em Cibersegurança na PUCPR
+Sou Felipe e tenho 25 anos<br>Iniciando minha jornada<br><br>📚Cursando Bacharelado em Cibersegurança na PUCPR
 
 ## 📱 Conecte-se Comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-fernandes-bortolino-3953041a6)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:imaidenxx@proton.me)
+[![Email](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:imaidenxx@proton.me)
 
 # 💻 Skills:
 <div style="display: inline_block"><br>
