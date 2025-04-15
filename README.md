@@ -14,7 +14,7 @@ Sou Felipe e tenho 25 anos<br>Iniciando minha jornada<br><br>📚Cursando Bachar
 [![Email](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:imaidenxx@proton.me)
 
 # 💻 Skills:
-<div style="display: inline"><br>
+<div style="display: flex"><br>
 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
