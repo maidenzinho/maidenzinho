@@ -27,9 +27,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-ori
 
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
-  <img align="center" alt="Shell" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shell/shell-original.svg">
-  <img align="center" alt="Shell" height="30" width="40"
+  <img align="center" alt="Shell Script" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shellscript/shellscript-original.svg">
+  <img align="center" alt="Shell Script" height="30" width="40"
 
 <img align="center" alt="Rust" height="30" width="40" src="https://www.svgrepo.com/show/374056/rust.svg">
 
