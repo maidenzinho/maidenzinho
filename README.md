@@ -34,6 +34,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shellscript
 <img align="center" alt="Rust" height="30" width="40" src="https://www.svgrepo.com/show/374056/rust.svg">
 
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 <br> 
 </br>
