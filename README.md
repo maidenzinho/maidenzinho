@@ -43,7 +43,7 @@ Sou Felipe e tenho 25 anos<br>Iniciando minha jornada<br><br>📚Cursando Bachar
 |Cursos | Certificados |
 |-------|--------------|
 |Red Hat System Administration I 9.3| [Certificado](mailto:imaidenxx@proton.me)|
-|Red Hat System Linux 9.1| [Certificado](https://www.credly.com/badges/684b9895-6dd0-45dc-b96b-db25df8b7d6f/public_url)|
+|Red Hat System Linux 9.1| [Certificado](mailto:imaidenxx@proton.me)|
 |Red Hat System Administration II 9.0| [Certificado](mailto:imaidenxx@proton.me)|
 Loading...
 
