@@ -53,7 +53,7 @@ Loading...
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🐍 Snake:
+# 🐍 Snake and PAC-MAN:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg">
