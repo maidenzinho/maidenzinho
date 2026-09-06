@@ -6,7 +6,7 @@
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 # 💫 Sobre:
-Sou Felipe e tenho 25 anos<br>Iniciando minha jornada<br><br>📚Cursando Bacharelado em Cibersegurança na PUCPR
+Sou Felipe e tenho 26 anos<br>Iniciando minha jornada<br><br>📚Cursando Bacharelado em Cibersegurança na PUCPR
 
 ## 📱 Conecte-se Comigo!
 
