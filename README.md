@@ -12,6 +12,7 @@ Sou Felipe e tenho 26 anos<br>Iniciando minha jornada<br><br>📚Cursando Bachar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-fernandes-bortolino-3953041a6)
 [![Email](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:imaidenxx@proton.me)
+[![Portfolio](https://img.shields.io/badge/website-black?style=for-the-badge&logo=linkedin&logoColor=white)](maidenzinho.github.io)
 
 # 💻 Skills:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"><br>
